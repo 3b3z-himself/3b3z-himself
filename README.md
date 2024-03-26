@@ -44,7 +44,7 @@
 
 ###
 
-<img align="right" height="500" src="https://media.giphy.com/media/RN96us3MBn569GbElX/giphy.gif?cid=790b7611py809adksjt50gn76yycya1q16bs60fqkk0cajbb&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+<img align="right" width="100%" height="500" src="https://media.giphy.com/media/RN96us3MBn569GbElX/giphy.gif?cid=790b7611py809adksjt50gn76yycya1q16bs60fqkk0cajbb&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
 
@@ -56,28 +56,7 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/3b3z-himself/3b3z-himself/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/3b3z-himself/count.svg?"  />
 </div>
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-</div>
-
-###
