@@ -4,10 +4,11 @@ Humble Ahmed.
 - talamezy.com
 - amalize.net
 - elotify.com
+- kit.amalize.net  
 - balanize.elotify.com
 - agarhaly.amalize.net
 - omra.elotify.com
 
 ## Soon:
-- kit.amalize.net  
+- healthcare.amalize.net  
 - +8 other products
